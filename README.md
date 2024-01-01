@@ -1,7 +1,7 @@
 # TMPRenew
 钛盘自动续期工具
 
-Auto renewal tool for TMPlink
+Auto renewal tool for TMPlink(Titanium Drive)
 
 [**简体中文**](#简体中文) | [**English**](#english)
 ## 简体中文
